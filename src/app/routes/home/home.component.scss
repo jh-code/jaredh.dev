@@ -71,9 +71,14 @@
 }
 
 .top-skills {
+  .card {
+    border: none;
+  }
+
   img {
     width: 70px;
-    height: auot;
+    height: auto;
+    margin: auto;
   }
 }
 
